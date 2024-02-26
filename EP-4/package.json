@@ -1,0 +1,35 @@
+{
+  "name": "ep-4",
+  "version": "1.0.0",
+  "description": "Food App",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhavKamble/React-ive.git"
+  },
+  "keywords": [
+    "react",
+    "food"
+  ],
+  "author": "MK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhavKamble/React-ive/issues"
+  },
+  "homepage": "https://github.com/MadhavKamble/React-ive#readme",
+  "dependencies": {
+    "parcel": "^2.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 version"
+  ],
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
